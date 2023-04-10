@@ -291,8 +291,6 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 
 %----------------------------------------------------------------------------------------
 % CONFIGURATION OF TEXT(PARAGRAPH, SECTION, DATE, OTHERS)
-
-
 \usepackage{lipsum} % Add  dummy text
 \usepackage[hidelinks]{hyperref}
 \usepackage{setspace} %Alter spacing in paragraph
