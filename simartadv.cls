@@ -246,7 +246,7 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 %----------------------------------------------------------------------------------------
 % LUALATEX FONT
 \usepackage{fontspec}
-\setmainfont{Arial} %Altex main font documents, default= Modern
+%\setmainfont{Arial} %Altex main font documents, default= Modern
 
 % PdfLATEX FONT
 %\usepackage[utf8]{inputenc} % Required for inputting international characters
