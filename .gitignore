@@ -27,4 +27,13 @@
 *.fdb_latexmk
 *.swp
 *.swo
+*.4ct
+*.4tc
+*.idv
+*.lg
+*.tmp
+*.xref
+*.svg
+*.fld/
+
 /Spss/*
