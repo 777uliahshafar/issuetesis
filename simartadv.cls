@@ -152,15 +152,15 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 
 %----------------------------------------------------------------------------------------
 % PREAMBLE OF BIBLIOGRAPHY
-%\usepackage[round]{natbib}
+\usepackage[numbers]{natbib}
 %\setcitestyle{open={(},close={)}}
-\usepackage[natbibapa]{apacite}
+%\usepackage[natbibapa]{apacite}
 %change and in citation to dan
-\AtBeginDocument{
-  \renewcommand{\BBAA}{dan}
-  \renewcommand{\BBAB}{dan}
-  \renewcommand{\BAnd}{dan}
-}
+%\AtBeginDocument{
+%  \renewcommand{\BBAA}{dan}
+%  \renewcommand{\BBAB}{dan}
+%  \renewcommand{\BAnd}{dan}
+%}
 
 %\renewcommand{\bibsection}{\noindent\textbf{ DAFTAR PUSTAKA}} %Change Title Bibliography
 

@@ -35,5 +35,7 @@
 *.xref
 *.svg
 *.fld/
+*.html
+*.css
 
 /Spss/*
